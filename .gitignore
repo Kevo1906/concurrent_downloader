@@ -1,0 +1,25 @@
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary and log files
+*.log
+*.tmp
+*.swp
+
+# IDE/editor configuration files
+.idea/
+.vscode/
+*.code-workspace
+
+# Execution output folders
+bin/
